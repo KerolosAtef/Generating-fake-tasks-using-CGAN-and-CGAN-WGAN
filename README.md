@@ -1,4 +1,6 @@
 # Generate fake tasks using CGAN and CGAN with wistern loss function
+![Fake or real](https://drive.google.com/uc?export=view&id=1-PMAvx35fcqMgSatbjTQjxx7nGWJJTv-)
+
 ### This project uses and explain how to use GANs with tabular data not only with images
 ### Notes 
 This repo contains 2 notebooks which are the same but the only difference that one uses binary cross entropy as the loss function of the discriminator and the other one uses wistern loss function 
