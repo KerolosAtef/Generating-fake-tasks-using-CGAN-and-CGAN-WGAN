@@ -1,4 +1,4 @@
-# Generate fake tasks using CGAN and CGAN with Wassertein loss function
+# Generate fake tasks using CGAN and WGAN with Wassertein loss function
 ![Fake or real](https://drive.google.com/uc?export=view&id=1-PMAvx35fcqMgSatbjTQjxx7nGWJJTv-)
 
 ### This project uses and explain how to use GANs with tabular data not only with images
