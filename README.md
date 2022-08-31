@@ -3,7 +3,7 @@
 
 ### This project uses and explain how to use GANs with tabular data not only with images
 ### Notes 
-This repo contains 2 notebooks which are the same but the only difference that one uses binary cross entropy as the loss function of the discriminator and the other one uses wistern loss function 
+This repo contains 2 notebooks which are the same but the only difference that one uses binary cross entropy as the loss function of the discriminator and the other uses wistern loss function 
 ## Overview
 Fake task attack is critical for Mobile Crowdsensing system (MCS) that aim to clog the sensing servers in
 the MCS platform and drain more energy from participants’ smart devices. Typically, fake tasks are
